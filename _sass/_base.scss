@@ -30,8 +30,8 @@ p {
 
 .wrapper {
     background:$theme-color;
+    min-height: 1000px;
     max-width: 1000px;
-    min-height: 950px;
     margin: 0 auto;
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
@@ -43,7 +43,7 @@ p {
     right: 0;
     width: 280px;
     height: 100%;
-    min-height: 950px;
+    min-height: 1000px;
     color: #fff;
     a {
         color: #fff;
