@@ -23,6 +23,10 @@ compress_html: # - http://jch.penibelst.de/
   ignore:
     envs: development
 
+exclude:
+  - slides/base_slides.md
+  - slides/cv-presentation/*.md
+
 # Development Settings
 port: 4000
 host: 0.0.0.0
