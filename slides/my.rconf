@@ -1,0 +1,9 @@
+template = "template.html"
+
+author = "[Martin Cernak](https://maki32.github.io/online-cv/)"
+affiliation = "[FIS, sLOVEnia](http://fis.unm.subsubtitle/)"
+
+"cv-presentation/myCV.md"
+    title = "About me"
+    subtitle = "Martin Cernak"
+    subsubtitle = "Welcome"
